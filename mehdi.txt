@@ -6,3 +6,4 @@ salut les etudiant
 125422
 bonjour 
 cours git github
+bonjour inpt
